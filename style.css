@@ -1,0 +1,32 @@
+body{
+  width:1000px;
+}
+#image{
+ max-width: 99%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+#ingredients{
+  margin: 20px 0px 10px 0px;
+  padding-left: 7px;
+}
+ul{    
+  margin: 0px 0px 30px 0px;
+  padding-left: 26px;
+}
+#method{
+  margin: 20px 0px 10px 0px;
+  padding-left: 7px;
+}
+ol{
+  margin: 0px 0px 30px 0px;
+  padding-left: 26px;
+}
+
+li{
+  margin-bottom: 8px;
+  padding-left: 15px;
+  position: relative;
+}
